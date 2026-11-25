@@ -6,7 +6,7 @@ I'm a physicist with a strong background in programming, scientific computing, a
 
 ### 🎓 Education
 - Bachelor's Degree in Physics.
-- Postgraduate studies in Physics and Astronomy – UTFPR.
+- Postgraduate Degree in Physics and Astronomy – UTFPR.
 
 ### 💻 Technical Skills
 
