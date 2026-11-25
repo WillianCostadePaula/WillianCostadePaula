@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Willian Costa! 👋
 
-<!--
-**WillianCostadePaula/WillianCostadePaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Physicist | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm a physicist with a strong background in programming, scientific computing, and problem-solving. Currently transitioning into Data Analytics, developing practical skills to transform raw data into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education
+- Bachelor's Degree in Physics.
+- Postgraduate studies in Physics and Astronomy – UTFPR.
+
+### 💻 Technical Skills
+
+- **Programming:** Python, C/C++
+- **Data Analysis:** Pandas, NumPy
+- **Data Visualization:** Matplotlib, Seaborn
+- **Currently Learning:** SQL, Power BI, Business Intelligence.
+
+### 📊 Featured Projects
+
+Here you can find my projects focused on data analysis, exploratory data analysis, data visualization, and problem-solving.
+
+*Projects will be added as they are completed.*
+
+### 🎯 Interests
+
+- Data Analytics
+- Data Science
+- Scientific Computing
+- Statistical Analysis
+- Machine Learning
+
+### 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/willian-costa-de-paula-812611209/
+- GitHub: https://github.com/WillianCostadePaula
+
+---
+
+*Always learning, building, and exploring new ways to extract knowledge from data.*
